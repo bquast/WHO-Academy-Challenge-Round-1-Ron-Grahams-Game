@@ -13,7 +13,7 @@ The file [RonGrahamsGame.py](RonGrahamsGame.py) is a self contained Python 3 fil
 
 It will first prompt you if you wish to level up (play against the optimiser), you can chose to do so, simply by pressing `Enter` (since it is the default option).
 
-![demonstration](demo.png)
+![demonstration](demo.gif)
 
 
 ## Troubleshooting
