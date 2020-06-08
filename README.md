@@ -30,7 +30,13 @@ In that case you can execute using:
 
     $ python3 ./RonGrahamsGame.py
 
+
 ## Development
 
 [RonGrahamsGame.py](RonGrahamsGame.py) was developed with `Python 3.8.3` on a Arch Linux machine with Kernel `v.5.7.1`, it should run on any `Python 3` machine.
+
+
+## License
+
+The [LICENSE](LICENSE) is MIT.
 
