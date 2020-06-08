@@ -9,7 +9,7 @@ Ron Graham's Game is the variant where `L==3`, it has shown that Ron Graham's Ga
 
 The file [RonGrahamsGame.py](RonGrahamsGame.py) is a self contained Python 3 file including the game and the optimiser to play against, it can be executed using:
 
-    python ./RonGrahamsGame.py
+    $ python ./RonGrahamsGame.py
 
 It will first prompt you if you wish to level up (play against the optimiser), you can chose to do so, simply by pressing `Enter` (since it is the default option).
 
@@ -26,5 +26,5 @@ If you encounter the error
 This is caused by executing with `Python 2` instead of `Python 3`, because your system has `Python 2` as its default.
 In that case you can execute using:
 
-    python3 ./RonGrahamsGame.py
+    $ python3 ./RonGrahamsGame.py
 
