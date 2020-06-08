@@ -43,5 +43,5 @@ The [LICENSE](LICENSE) is MIT.
 
 ## Attribution
 
-The game implementation is adapted from @aroques, the optimiser is based on Peter Norvig's AIMA code.
+The game implementation is adapted from Alec Roques, the optimiser is based on Peter Norvig's AIMA code.
 
