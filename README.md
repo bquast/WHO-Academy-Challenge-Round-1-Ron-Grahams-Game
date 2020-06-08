@@ -13,3 +13,18 @@ The file [RonGrahamsGame.py](RonGrahamsGame.py) is a self contained Python 3 fil
 
 It will first prompt you if you wish to level up (play against the optimiser), you can chose to do so, simply by pressing `Enter` (since it is the default option).
 
+
+## Troubleshooting
+
+If you encounter the error
+
+      File "RonGrahamsGame.py", line 71
+        print('{} '.format(move), end='')
+                                 ^
+    SyntaxError: invalid syntax
+
+This is caused by executing with `Python 2` instead of `Python 3`, because your system has `Python 2` as its default.
+In that case you can execute using:
+
+    python3 ./RonGrahamsGame.py
+
