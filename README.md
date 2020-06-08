@@ -16,7 +16,7 @@ It will first prompt you if you wish to level up (play against the optimiser), y
 
 ## Troubleshooting
 
-If you encounter the error
+If you encounter the error:
 
       File "RonGrahamsGame.py", line 71
         print('{} '.format(move), end='')
@@ -27,4 +27,8 @@ This is caused by executing with `Python 2` instead of `Python 3`, because your 
 In that case you can execute using:
 
     $ python3 ./RonGrahamsGame.py
+
+## Development
+
+[RonGrahamsGame.py](RonGrahamsGame.py) was developed with `Python 3.8.3` on a Arch Linux machine with Kernel `v.5.7.1`, it should run on any `Python 3` machine.
 
